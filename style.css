@@ -1,0 +1,17 @@
+.images{
+  height: 200px;
+  width: 200px;
+  
+  
+}
+h2{
+  font-size: 30px;
+  color: rgb(5, 80, 141);
+}
+h1{
+  color: red;
+}
+
+*{
+  text-align: center;
+}
